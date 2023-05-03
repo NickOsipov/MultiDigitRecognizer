@@ -1,0 +1,2 @@
+model_onnx_path: "models/model.quant.onnx"
+model_path: "models/model.pt"
