@@ -19,7 +19,7 @@
 ├── models                <- Директория с артефактами моделей.
 │   ├── model.pt          <- Веса обученной модели, исходная версия fp32.
 |   ├── model.py          <- Архитектура модели на PyTorch.
-|   └── model.quant.onnx
+|   └── model.quant.onnx  <- Квантизированная модель в формате ONNX.
 |
 ├── notebooks             <- Директория с Jupyter notebooks. 
 │   └── training.ipynb    <- Ноутбук с обучением модели.
