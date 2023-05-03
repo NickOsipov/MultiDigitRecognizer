@@ -61,7 +61,7 @@
 
 ## Инструкция по запуску
 Инструкция предсталена для ОС Linux. Проект собран с помощью docker, поэтому предварительно необходимо [установить](https://docs.docker.com/engine/install/ubuntu/). 
-1. Запускаем `run.sh`. Соберется docker-image `mdrecognizer` и поднимется в интерактивном режиме docker-contatiner `mdr_container`. После остановки контейнер удаляется.  
+1. Запускаем `run.sh` в терминале. Соберется docker-image `mdrecognizer` и поднимется в интерактивном режиме docker-contatiner `mdr_container`. После остановки контейнер удаляется.  
 ```bash
 bash run.sh
 ```
